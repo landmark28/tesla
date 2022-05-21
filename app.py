@@ -1,6 +1,6 @@
 print ('simon')
 # echo simon
 echo simon
-print ('chidi')
-print ('shiv')
+print ('omg')
+# echo omg
 
